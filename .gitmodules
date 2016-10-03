@@ -1,0 +1,44 @@
+[submodule "All Seed/super-awesome-seed"]
+path = "All Seed/super-awesome-seed"
+url = "http://127.0.0.1"
+
+[submodule "Angular 2 scratch development/intellidealer"]
+path = "Angular 2 scratch development/intellidealer"
+url = "http://127.0.0.1"
+
+[submodule "Good React Rangle Starter/typescript-react-redux-example"]
+path = "Good React Rangle Starter/typescript-react-redux-example"
+url = "http://127.0.0.1"
+
+[submodule "Intellidealer React/LearnJava"]
+path = "Intellidealer React/LearnJava"
+url = "http://127.0.0.1"
+
+[submodule "React typescript/webpack-express-boilerplate"]
+path = "React typescript/webpack-express-boilerplate"
+url = "http://127.0.0.1"
+
+[submodule "app-legacy-git-dumper"]
+path = "app-legacy-git-dumper"
+url = "http://127.0.0.1"
+
+[submodule "electron/electron-quick-start"]
+path = "electron/electron-quick-start"
+url = "http://127.0.0.1"
+
+[submodule "react tutorial/react-router-tutorial"]
+path = "react tutorial/react-router-tutorial"
+url = "http://127.0.0.1"
+
+[submodule "react webpage/React-For-Beginners-Starter-Files"]
+path = "react webpage/React-For-Beginners-Starter-Files"
+url = "http://127.0.0.1"
+
+[submodule "react-electron/timetrack"]
+path = "react-electron/timetrack"
+url = "http://127.0.0.1"
+
+[submodule "react-typescript/react-typescript-webpack"]
+path ="react-typescript/react-typescript-webpack"
+url = "http://127.0.0.1"
+
