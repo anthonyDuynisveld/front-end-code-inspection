@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/react-router-tutorial/lessons/12-navigating" libraries="{react tutorial/react-router-tutorial/lessons/12-navigating/node_modules}" />
+    <file url="file://$PROJECT_DIR$/react-router-tutorial/lessons/13-server-rendering" libraries="{react tutorial/react-router-tutorial/lessons/13-server-rendering/node_modules}" />
+    <file url="file://$PROJECT_DIR$/react-router-tutorial/lessons/14-whats-next" libraries="{react tutorial/react-router-tutorial/lessons/14-whats-next/node_modules}" />
+    <file url="file://$PROJECT_DIR$/react-router-tutorial/lessons/14-whats-next/react-router" libraries="{react tutorial/react-router-tutorial/lessons/14-whats-next/react-router/node_modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
